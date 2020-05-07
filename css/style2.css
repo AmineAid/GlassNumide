@@ -1,0 +1,123 @@
+a {
+	text-decoration:none;
+	color:blue;
+}
+
+.menu{
+
+	overflow: none;
+	width:130px;
+	height: 70px;
+	text-align:center;
+	display: table-cell; vertical-align: middle;
+	font-size:30px;
+	color:white;
+	padding:1px 20px;
+	background:#4f81bd;
+	border:2px solid white;
+	border-radius: 15px;	
+}
+#addproducttable{
+font-size:30px;margin-top:40px;
+}
+#addproducttable input{
+	width:300px;
+	height: 50px;
+	font-size: 30px;
+}
+
+#added{
+	color:green;
+	font-size: 40px;
+	margin-top: 60px;
+}
+#error{
+	color:red;
+	font-size: 40px;
+	margin-top: 60px;
+}
+#contacttable{
+	font-size: 25px;
+	padding:10px;
+}
+#contacttable a {
+	color:black;
+	}
+	#contacttable td {
+	padding:2px 15px;
+	}
+#addorderstable input{
+	width:200px;
+	height: 30px;
+	font-size: 20px;
+}
+.contacttable2{
+border-collapse:collapse;
+}
+.contacttable2 td{
+	padding: 30px;
+	border-collapse:collapse;
+border:1px black solid;
+}
+#pages a{
+	color:green;
+}
+#contactinfotable{
+	border-collapse:collapse;
+	font-size: 25px;
+	
+}
+#contactinfotable a {
+	color:black;
+	}
+	#contactinfotable td {
+		border-collapse:collapse;
+		border:1px solid grey;
+
+	}	#contactinfotable2 td {
+		font-size: 25px;
+		border-collapse:collapse;
+		border:1px solid grey;
+	padding:2px 15px;
+	}
+ #dates input{
+ 	font-size: 24px;
+ font
+ }
+ #topp{
+border-collapse:collapse;
+border:1px solid grey;
+font-size:22px;
+}
+#topp td{
+	border:1px solid grey;
+}
+ #topp2{
+border:none;
+font-size:22px;
+}
+#topp2 td{
+	border:none;
+}
+ #settingstable{
+font-size:22px;
+}
+#settingstable td{
+	padding: 10px 30px;
+}
+
+#settingstable input{
+	font-size: 17px;
+}#settingstable input #listing{
+	font-size: 17px;
+}
+#topinfos{
+	border-collapse:collapse;
+}
+#topinfos td{
+	width:200px;
+	text-align: center;
+	border:1px solid grey;
+padding:10px;
+font-weight: bold;
+}

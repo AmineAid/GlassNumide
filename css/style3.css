@@ -1,0 +1,75 @@
+a {
+	text-decoration:none;
+	color:blue;
+}
+
+.menu{
+
+	overflow: none;
+	width:130px;
+	height: 70px;
+	text-align:center;
+	display: table-cell; vertical-align: middle;
+	font-size:30px;
+	color:white;
+	padding:1px 20px;
+	background:#4f81bd;
+	border:2px solid white;
+	border-radius: 15px;	
+}
+#addtable{
+font-size:30px;margin-top:40px;
+}
+#addproduct input{
+	width:300px;
+	height: 50px;
+	font-size: 30px;
+}
+
+#added{
+	color:green;
+	font-size: 40px;
+	margin-top: 60px;
+}
+#error{
+	color:red;
+	font-size: 40px;
+	margin-top: 60px;
+}
+#addorder input{
+	width:200px;
+	height: 30px;
+	font-size: 20px;
+}#editorder input{
+	width:200px;
+	height: 30px;
+	font-size: 20px;
+}
+#gaz{
+	font-size: 20px;
+}
+select{
+	font-size: 20px;
+}
+#nocontact{
+	width:20px;
+}
+#topinfos{
+	border-collapse:collapse;
+}
+#topinfos td{
+padding:10px;
+font-weight: bold;
+}
+
+#articlestable{
+border-collapse:collapse;
+}
+#tablemenu td{
+font-weight: bold;
+padding:10px;
+}
+#articlestable td{
+	border:2px solid black;
+padding:10px;
+}
